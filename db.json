@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 10,
+      "text": "This app is amazing!"
+    },
+    {
+      "id": "2",
+      "rating": 8,
+      "text": "I've been using it for a while now."
+    },
+    {
+      "text": "this is a good app",
+      "rating": 10,
+      "id": "9c75"
+    },
+    {
+      "id": "8a2a",
+      "text": "gooodddddddddd",
+      "rating": 8
+    }
+  ]
+}
