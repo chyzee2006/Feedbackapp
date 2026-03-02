@@ -1,8 +1,81 @@
-# React + Vite
+# Feedback UI Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Feedback User Interface** built with React to collect and display user feedback in a clean and structured way.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://chyzee-feedbackapp.netlify.app 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 💡 Overview
+
+This project is a frontend feedback application designed to demonstrate component-based architecture, state management, and responsive UI design using React.
+
+Users can submit feedback, and the interface dynamically updates to reflect submitted responses.
+
+The application showcases practical frontend development skills including reusable components, controlled inputs, and structured layout design.
+
+---
+
+## 🛠️ Tech Stack
+
+- React  
+- JavaScript (ES6+)  
+- CSS  
+- React Hooks (useState, useEffect)  
+- Netlify (Deployment)  
+
+---
+
+## 🚀 Features
+
+- Responsive design (mobile & desktop friendly)  
+- Interactive feedback submission  
+- Real-time UI updates  
+- Component-based structure  
+- Clean and minimal user interface  
+- Optimized production build  
+
+---
+
+## 📦 Installation & Setup
+
+To run this project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/chyzee2006/Feedbackapp.git
+```
+2.	Navigate into the project folder
+	
+```bash
+cd Feedbackapp
+```
+3.	Install dependencies:
+```bash
+npm install
+  ```
+4.	Start the development server:
+```bash
+   npm start
+
+```
+---
+## 🏗️ Build for Production
+
+To create an optimized production build:
+```bash
+npm run build
+
+```
+---
+## 👨‍💻 Author
+
+- Chigbata-Fidelis Chizoba
+- Frontend Developer
+- GitHub: https://github.com/chyzee2006
+  
+  ---
+## 📄 License
+
+This project is open-source and intended for educational and portfolio purposes.
